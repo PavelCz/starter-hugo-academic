@@ -1,6 +1,6 @@
 ---
 role: Master's Student in Artificial Intelligence
-avatar_filename: crop2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include AI safety, robust AI systems and
   reinforcement learning.
 interests:
