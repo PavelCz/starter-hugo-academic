@@ -4,8 +4,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include AI safety, robust AI systems and
   reinforcement learning.
 interests:
-  - Safety
-  - Robustness
+  - Artificial Intelligence
+  - AI Safety
+  - Deep RL
 social:
   - icon: envelope
     icon_pack: fas
