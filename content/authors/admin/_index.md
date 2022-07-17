@@ -26,6 +26,7 @@ social:
 organizations:
   - name: TUM
     url: ""
+  - name: CHAI, UC Berkeley
 education:
   courses:
     - course: MSc in Computer Science (Artificial Intelligence)
