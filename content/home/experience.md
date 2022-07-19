@@ -3,6 +3,16 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Visiting Student Researcher
+    company: Center for Human-Compatible AI
+    company_url: "https://humancompatible.ai/"
+    company_logo: chai
+    location: UC Berkeley
+    date_start: 2021-05-01
+    date_end: 2021-12-31
+    description: |
+        * Supervised by Adam Gleave
+        * Research on defenses against adversarial reinforcement learning policies.
   - title: Research Intern
     company: Center for Human-Compatible AI
     company_url: "https://humancompatible.ai/"
@@ -11,9 +21,8 @@ experience:
     date_start: 2021-05-01
     date_end: 2021-12-31
     description: |
+        * Supervised by Adam Gleave
         * Research on defenses against adversarial reinforcement learning policies.
-        * Modelling
-        * Deploying
   - title: Research Assistant
     company: Fraunhofer AISEC
     company_url: "https://www.aisec.fraunhofer.de/en.html"
