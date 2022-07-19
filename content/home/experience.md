@@ -23,7 +23,7 @@ experience:
     location: Munich, Germany
     date_start: 2020-05
     date_end: 2021-08
-    description:
+    description: |-2
         * Supervised by Nicolas Müller
         * Implemented and ompared audio deepfake detection architectures
 widget_id: experience
