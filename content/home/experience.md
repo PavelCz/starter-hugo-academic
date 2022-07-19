@@ -3,17 +3,15 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
-    description: |-2
-        Responsibilities include:
-        
-        * Analysing
+  - title: Research Intern
+    company: Center for Human-Compatible AI
+    company_url: "https://humancompatible.ai/"
+    company_logo: chai
+    location: UC Berkeley (remote)
+    date_start: 2021-05-01
+    date_end: 2021-12-31
+    description: |
+        * Research on defenses against adversarial reinforcement learning policies.
         * Modelling
         * Deploying
   - title: Research Assistant
@@ -23,7 +21,6 @@ experience:
     date_start: 2020-05-01
     date_end: 2021-08-31
     description: |-2
-        Test:
         * Supervised by Nicolas Müller
         * Implemented and ompared audio deepfake detection architectures
 widget_id: experience
