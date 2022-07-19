@@ -19,7 +19,7 @@ experience:
   - title: Research Assistant
     company: Fraunhofer AISEC
     company_url: "https://www.aisec.fraunhofer.de/en.html"
-    company_logo: fraunhofer-aisec.jpg
+    company_logo: org-gc
     location: Munich, Germany
     date_start: 2020-05
     date_end: 2021-08
