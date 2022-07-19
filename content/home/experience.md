@@ -21,8 +21,8 @@ experience:
     company_url: "https://www.aisec.fraunhofer.de/en.html"
     company_logo: org-gc
     location: Munich, Germany
-    date_start: May 2020
-    date_end: Aug 2021
+    date_start: 2020-05-01
+    date_end: 2021-08-31
     description: |-2
         Test:
         * Supervised by Nicolas Müller
