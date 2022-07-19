@@ -24,6 +24,7 @@ experience:
     date_start: 2020-05
     date_end: 2021-08
     description: |-2
+        Test:
         * Supervised by Nicolas Müller
         * Implemented and ompared audio deepfake detection architectures
 widget_id: experience
