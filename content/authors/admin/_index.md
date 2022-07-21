@@ -39,6 +39,6 @@ superuser: true
 highlight_name: true
 title: Pavel Czempin
 email: "pavel@czemp.in"
-external_link: czemp.in
+external_link: https://czemp.in/
 ---
 Pavel Czempin is a master's student at the Technical University of Munich and a visiting researcher at the Center for Human-Compatible AI at UC Berkeley. His research interests include AI safety, robust AI systems and reinforcement learning.
