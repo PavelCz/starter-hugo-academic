@@ -70,6 +70,7 @@ security:
 sitemap:
   _merge: deep
 
+# Remove socials in publications
 cascade:
   - _target:
       path: /publication/**
