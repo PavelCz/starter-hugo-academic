@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Speech is Silver, Silence is Golden: What do ASVspoof-trained Models Really Learn?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
