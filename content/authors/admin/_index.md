@@ -1,5 +1,5 @@
 ---
-role: Visitin Student Researcher | Master's Student | Artificial Intelligence
+role: Student Researcher | Master's Student | Artificial Intelligence
 avatar_filename: avatar.jpg
 bio: My research interests include AI safety, robust AI systems and
   reinforcement learning.
