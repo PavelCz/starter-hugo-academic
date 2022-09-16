@@ -8,8 +8,8 @@ experience:
     company_url: "https://humancompatible.ai/"
     company_logo: chai
     location: UC Berkeley
-    date_start: 2021-05-01
-    date_end: 2021-12-31
+    date_start: 2022-01-01
+    date_end: present
     description: |
         * Supervised by Adam Gleave
         * Research on defenses against adversarial reinforcement learning policies.
