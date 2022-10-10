@@ -5,12 +5,13 @@ bio: My research interests include AI safety, robust AI systems and
   reinforcement learning.
 interests:
   - Artificial Intelligence
-  - AI Safety
+  - AI Robustness
   - Deep RL
+  - AI Safety
 social:
-  #- icon: envelope
-  #  icon_pack: fas
-  #  link: /#contact
+  - icon: envelope
+    icon_pack: fas
+    link: "<firstname> at czemp.in"
   - icon: github
     icon_pack: fab
     link: https://github.com/pavelcz
@@ -24,9 +25,9 @@ social:
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=1O1nONQAAAAJ
 organizations:
-  - name: TUM
+  - name: Technical University of Munich
     url: ""
-  - name: CHAI, UC Berkeley
+  - name: UC Berkeley
 education:
   courses:
     - course: MSc in Computer Science (Artificial Intelligence)
@@ -38,7 +39,7 @@ education:
 superuser: true
 highlight_name: true
 title: Pavel Czempin
-email: "pavel@czemp.in"
+email: "<firstname> at czemp.in"
 external_link: https://czemp.in/
 ---
 Pavel Czempin is a master's student at the Technical University of Munich and a visiting researcher at the Center for Human-Compatible AI at UC Berkeley. His research interests include AI safety, robust AI systems and reinforcement learning.
