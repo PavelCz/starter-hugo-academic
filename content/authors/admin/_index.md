@@ -1,5 +1,5 @@
 ---
-role: Student Researcher | Master's Student | Artificial Intelligence
+role: Student Researcher | Artificial Intelligence
 avatar_filename: avatar.jpg
 bio: My research interests include AI safety, robust AI systems and
   reinforcement learning.
@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "<firstname> at czemp.in"
+    link: "mailto:<firstname> at czemp.in"
   - icon: github
     icon_pack: fab
     link: https://github.com/pavelcz
