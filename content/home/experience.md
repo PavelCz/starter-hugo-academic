@@ -8,8 +8,8 @@ experience:
     company_url: "https://humancompatible.ai/"
     company_logo: chai
     location: UC Berkeley
-    date_start: 2021-05-01
-    date_end: 2021-12-31
+    date_start: 2022-01-01
+    date_end: ''
     description: |
         * Supervised by Adam Gleave
         * Research on defenses against adversarial reinforcement learning policies.
@@ -31,7 +31,7 @@ experience:
     date_end: 2021-08-31
     description: |-2
         * Supervised by Nicolas Müller
-        * Implemented and ompared audio deepfake detection architectures
+        * Implemented and compared audio deepfake detection architectures
 widget_id: experience
 headless: true
 weight: 40
