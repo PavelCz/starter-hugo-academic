@@ -9,10 +9,10 @@ experience:
     company_logo: chai
     location: UC Berkeley
     date_start: 2022-01-01
-    date_end: ''
+    date_end: '2022-08-31'
     description: |
-        * Supervised by Adam Gleave
-        * Research on defenses against adversarial reinforcement learning policies.
+        * In Collaboration with Adam Gleave, Daniel Filan
+        * Research on interpretability for learned reward models.
   - title: Research Intern
     company: Center for Human-Compatible AI
     company_url: "https://humancompatible.ai/"
