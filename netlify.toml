@@ -19,3 +19,8 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/model-based-rl"
+  to = "https://www.mdsi.tum.de/fileadmin/w00cet/di-lab/pdf/PreciBake-WS2020-Final-Report.pdf"
+  status = 301
