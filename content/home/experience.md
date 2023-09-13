@@ -11,8 +11,9 @@ experience:
     date_start: 2022-01-01
     date_end: '2022-08-31'
     description: |
-        * In Collaboration with Adam Gleave, Daniel Filan
+        * Continued research on defenses against adversarial reinforcement learning policies.
         * Research on interpretability for learned reward models.
+        * In Collaboration with Adam Gleave, Daniel Filan
   - title: Research Intern
     company: Center for Human-Compatible AI
     company_url: "https://humancompatible.ai/"
@@ -21,8 +22,8 @@ experience:
     date_start: 2021-05-01
     date_end: 2021-12-31
     description: |
-        * Supervised by Adam Gleave
         * Research on defenses against adversarial reinforcement learning policies.
+        * Supervised by Adam Gleave
   - title: Research Assistant
     company: Fraunhofer AISEC
     company_url: "https://www.aisec.fraunhofer.de/en.html"
@@ -30,8 +31,8 @@ experience:
     date_start: 2020-05-01
     date_end: 2021-08-31
     description: |-2
-        * Supervised by Nicolas Müller
         * Implemented and compared audio deepfake detection architectures
+        * Supervised by Nicolas Müller
 widget_id: experience
 headless: true
 weight: 40

@@ -1,13 +1,12 @@
 ---
-role: Student Researcher | Artificial Intelligence
+role: CS PhD Student
 avatar_filename: avatar.jpg
 bio: My research interests include AI safety, robust AI systems and
   reinforcement learning.
 interests:
-  - Artificial Intelligence
-  - AI Robustness
+  - Reinforcement Learning from Human Feedback
   - Deep RL
-  - AI Safety
+  - Trustworthy AI
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,21 +24,26 @@ social:
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=1O1nONQAAAAJ
 organizations:
-  - name: Technical University of Munich
+  - name: University of Southern California
     url: ""
-  - name: UC Berkeley
 education:
   courses:
+    - course: PhD in Computer Science (Artificial Intelligence)
+      institution: University of Southern California
+      year: ""
     - course: MSc in Computer Science (Artificial Intelligence)
       institution: Technical University of Munich
-      year: ""
+      year: "2023"
     - course: BSc in Engineering Science
       institution: Technical University of Munich
-      year: ""
+      year: "2020"
 superuser: true
 highlight_name: true
 title: Pavel Czempin
 email: "<firstname> at czemp.in"
 external_link: https://czemp.in/
 ---
-Pavel Czempin is a master's student at the Technical University of Munich and a former visiting researcher at the Center for Human-Compatible AI at UC Berkeley. His research interests include reinforcement learning, robust AI systems and AI safety.
+Hi There! I'm a PhD student in Computer Science at the University of Southern California. I work at the [USC Learning and Interactive Robot Autonomy Lab](https://liralab.usc.edu/), advised by [Erdem Biyik](https://ebiyik.github.io/). 
+I have prviously done research at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley and [Fraunhofer AISEC](https://www.aisec.fraunhofer.de/) and have a Master's degree from the Technical University of Munich.
+
+Feel free to reach out, I'm interested in collaborating!
