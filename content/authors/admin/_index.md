@@ -44,6 +44,6 @@ email: "<firstname> at czemp.in"
 external_link: https://czemp.in/
 ---
 Hi There! I'm a PhD student in Computer Science at the University of Southern California. I work at the [USC Learning and Interactive Robot Autonomy Lab](https://liralab.usc.edu/), advised by [Erdem Biyik](https://ebiyik.github.io/). 
-I have prviously done research at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley and [Fraunhofer AISEC](https://www.aisec.fraunhofer.de/) and have a Master's degree from the Technical University of Munich.
+I have previously done research at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley and [Fraunhofer AISEC](https://www.aisec.fraunhofer.de/) and have a Master's degree from the Technical University of Munich.
 
 Feel free to reach out, I'm interested in collaborating!
