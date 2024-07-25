@@ -11,11 +11,12 @@ authors:
   - Stephen Tu
   - Erdem Bıyık
 
-date: '2024-07-24T00:00:00Z'
+# Publication's date (I think)
+date: '2024-07-27T00:00:00Z'
 # doi: '10.21437/Interspeech.2022-108'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-27T00:00:00Z'
+publishDate: '2024-07-24T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
