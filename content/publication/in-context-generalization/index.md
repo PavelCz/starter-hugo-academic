@@ -9,7 +9,7 @@ authors:
   - admin
   - Yutai Zhou
   - Stephen Tu
-  - Erdem Bıyık
+  - Erdem Biyik
 
 date: '2024-07-27T00:00:00Z'
 # doi: '10.21437/Interspeech.2022-108'
