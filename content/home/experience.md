@@ -8,6 +8,15 @@ experience:
     company_url: "https://humancompatible.ai/"
     company_logo: chai
     location: UC Berkeley
+    date_start: 2024-05-13
+    date_end: '2024-08-23'
+    description: |
+        * Mentor: Rachel Freedman
+  - title: Visiting Student Researcher
+    company: Center for Human-Compatible AI
+    company_url: "https://humancompatible.ai/"
+    company_logo: chai
+    location: UC Berkeley
     date_start: 2022-01-01
     date_end: '2022-08-31'
     description: |
