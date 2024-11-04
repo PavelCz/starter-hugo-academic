@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:<firstname> at czemp.in"
+    link: "mailto:czempin<at>usc.edu"
   - icon: github
     icon_pack: fab
     link: https://github.com/pavelcz
