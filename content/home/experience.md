@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Visiting Student Researcher
+  - title: Research Intern
     company: Center for Human-Compatible AI
     company_url: "https://humancompatible.ai/"
     company_logo: chai
@@ -23,7 +23,7 @@ experience:
         * Continued research on defenses against adversarial reinforcement learning policies.
         * Research on interpretability for learned reward models.
         * In Collaboration with Adam Gleave, Daniel Filan
-  - title: Research Intern
+  - title: Research Collaborator
     company: Center for Human-Compatible AI
     company_url: "https://humancompatible.ai/"
     company_logo: chai

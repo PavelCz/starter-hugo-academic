@@ -1,11 +1,11 @@
 ---
 role: CS PhD Student
 avatar_filename: avatar.jpg
-bio: My research interests include AI safety, robust AI systems and
-  reinforcement learning.
+bio: I am interested in developing robust intelligent systems
 interests:
   - Reinforcement Learning from Human Feedback
-  - Deep RL
+  - Generalization in AI
+  - Robotics
   - Trustworthy AI
 social:
   - icon: envelope
