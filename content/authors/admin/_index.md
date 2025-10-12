@@ -1,12 +1,11 @@
 ---
 role: CS PhD Student
 avatar_filename: avatar.jpg
-bio: I am interested in developing robust intelligent systems
+bio: I am interested in developing robust agentic systems
 interests:
-  - Reinforcement Learning from Human Feedback
-  - Generalization in AI
+  - Reinforcement Learning
   - Robotics
-  - Trustworthy AI
+  - Trustworthy and Robust AI
 social:
   - icon: envelope
     icon_pack: fas
