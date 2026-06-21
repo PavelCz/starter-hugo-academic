@@ -8,8 +8,8 @@ experience:
     company_url: "https://humancompatible.ai/"
     company_logo: chai
     location: UC Berkeley
-    date_start: 2024-05-01
-    date_end: '2024-08-31'
+    date_start: 2025-05-01
+    date_end: '2025-08-31'
     description: |
         * Out of distributiond detection for reinforcement learning to mitigate goal misgeneralization.
   - title: Research Intern
