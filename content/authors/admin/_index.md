@@ -3,8 +3,8 @@ role: CS PhD Student
 avatar_filename: avatar.jpg
 bio: I am interested in developing robust agentic systems
 interests:
-  - Reinforcement Learning
-  - Robotics
+  - Fast Adaptation with in-context reinforcement learning
+  - Robot Learning
   - Trustworthy and Robust AI
 social:
   - icon: envelope
@@ -42,7 +42,9 @@ title: Pavel Czempin
 email: "<firstname> at czemp.in"
 external_link: https://czemp.in/
 ---
-Hi There! I'm a PhD student in Computer Science at the University of Southern California. I work at the [USC Learning and Interactive Robot Autonomy Lab](https://liralab.usc.edu/), advised by [Erdem Biyik](https://ebiyik.github.io/). 
+I'm a PhD student in Computer Science at the University of Southern California. I work at the [USC Learning and Interactive Robot Autonomy Lab](https://liralab.usc.edu/), advised by [Erdem Biyik](https://ebiyik.github.io/). 
+I'm broadly interested in fast adaptation for reinforcement learning and robotics as well as Trustworthy and Robust AI.
+
 I have previously done research at the [Center for Human-Compatible AI](https://humancompatible.ai/) at UC Berkeley and [Fraunhofer AISEC](https://www.aisec.fraunhofer.de/) and have a Master's degree from the Technical University of Munich.
 
 Feel free to reach out, I'm interested in collaborating!
