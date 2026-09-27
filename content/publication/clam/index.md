@@ -5,10 +5,11 @@ title: 'Clam: Continuous latent action models for robot learning from unlabeled 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Anothy Liang
+  - Anthony Liang
   - admin
-  - Matthew Hong
+  - Matthew M. Hong
   - Yutai Zhou
+  - Jingzhen Wang
   - Erdem Bıyık
   - Stephen Tu
 
@@ -28,7 +29,7 @@ publication_types: ['1']
 publication: In *2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
 publication_short: In *IROS 2026*
 
-abstract: "Learning robot policies using imitation learning requires collecting large amounts of costly action-labeled expert demonstrations, which fundamentally limits the scale of training data. A promising approach to address this bottleneck is to harness the abundance of unlabeled observations-e.g., from video demonstrations-to learn latent action labels in an unsupervised way. However, we find that existing methods struggle when applied to complex robot tasks requiring fine-grained motions. We design continuous latent action models (CLAM) which incorporate two key ingredients we find necessary for learning to solve complex continuous control tasks from unlabeled observation data: (a) using continuous latent action labels instead of discrete representations, and (b) jointly training an action decoder to ensure that the latent action space can be easily grounded to real actions with relatively few labeled examples. Importantly, the labeled examples can be collected from non-optimal play data, enabling CLAM to learn performant policies without access to any action-labeled expert data. We demonstrate on continuous control benchmarks in DMControl (locomotion) and MetaWorld (manipulation), as well as on a real WidowX robot arm that CLAM significantly outperforms prior state-of-the-art methods, remarkably with a 2-3x improvement in task success rate compared to the best baseline. Videos and code can be found at [this http URL](http://clamrobot.github.io/). "
+abstract: "Learning robot control policies from demonstrations typically requires action-labeled expert data, which is expensive to collect through teleoperation. We study a more practical setting in which expert demonstrations are available only as observation sequences without action labels, and only task-agnostic play data contains actions. We introduce continuous latent action models (CLAM), a framework that infers continuous latent actions between consecutive observations using self-supervised dynamics prediction. To ground these latent actions into executable motor commands, CLAM jointly trains an action decoder using a small amount of task-agnostic play data. We show that continuous latent actions combined with this joint training are essential for high-dimensional continuous control. Across DMControl locomotion, MetaWorld manipulation, and real-world WidowX robot tasks, CLAM improves average task success rates by 2-3x over prior latent-action baselines and approaches behavior cloning trained with privileged expert action labels. Our results demonstrate that effective robot policies can be learned from unlabeled demonstrations and deployed on real hardware without collecting expert action-labeled data. Videos and code are available at [clamrobot.github.io](https://clamrobot.github.io/)."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
