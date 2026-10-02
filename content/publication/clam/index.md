@@ -1,5 +1,5 @@
 ---
-title: 'Clam: Continuous latent action models for robot learning from unlabeled demonstrations'
+title: 'CLAM: Continuous latent action models for robot learning from unlabeled demonstrations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
